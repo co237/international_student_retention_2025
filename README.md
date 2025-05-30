@@ -7,7 +7,11 @@ Variable selection: Under "Completions," choose "Number of students receiving aw
 
 NSCG: Use the following filters in the microdata:
 MRYR >2011, MRYR < 2022: To filter for graduates who earned their most recent degree between 2012 and 2021. 
+
 FNVSATP == 3: To filter for international graduates who first came to the U.S. on a student visa. 
+
 MRDG >0 & MRDG <4: To filter for those whose most recent degrees were at the BA, MA, or PhD levels.
+
 MRST_TOGA == 099: To filter for those who earned their most recent degree in the United States. 
+
 This will give you the total number of recent international student graduates who still live in the U.S. 
